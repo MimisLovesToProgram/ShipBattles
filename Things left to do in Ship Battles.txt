@@ -1,0 +1,28 @@
+Things Left to do in "Ship Battles"
+
+ 1) After researching a bit, start building one of the New Version Updates
+
+Extra Fixing Notes:
+
+ 
+
+Other Random Notes:
+
+ 1) After adding a new feature, don't forget to mention it on the tutorial with its own seperate slide.
+
+Features To Add on Upgraded Versions (sorted by addition queue):
+
+ 1) Ship Upgrading: When selecting a ship, 2 new buttons will be there, the Upgrade Ship buttons.  As a text, it will say "Upgrade Health - ", "Upgrade Damage - ", and the coins required
+    for each upgrade. Once pressed, it will remove the coins from the player's treasury, and give the ship +10 max health or avg. damage. Use this formula to increase the prices every
+    time the player upgrades a stat: price = timesStatUpgraded * 5. Set the initial value of timesStatUpgraded to 2, so that the first price is 10 coins.
+
+ 2) Consumables: When clicking on a ship, there will be a button from which you will be able to buy specific amounts of consumable ship defenses, torpedoes, each one with its own pros
+    and cons. They will be single-use. Of course, they will be purchased with coins. Each ship will be able to hold 2 powerups. Also, on the buying panel, show the amounts and types of
+    powerups this ship has.
+
+ 3) Island Buildings: When the player clicks on an island, show a panel like the ship buying one. Let the player choose which building to construct on this island in exchange for coins.
+    Each building will be more or less expensive, and will serve different purposes. Just for fun, if a player builds something on an island, that island will no longer contribute into
+    the team's coin revenue. Finally, if anything is built on an island, the enemy will need 2 ships to take over the island, and the building will work for the other team.
+
+ 4) Round Events: Every round, get a random event (like decreasing/increasing islands, free powerups for ships, double money,ect). Also make the opup panel say what round event will be
+    active during that round.
