@@ -8,4 +8,7 @@ And mainly the fact that I am the only one working on this project.
 
 **Wanna Play The Game?**
 
-In case you would like to play the game, contact me using the details in my GitHub Account :)
+In case you would like to play the game, contact me using the details in my GitHub Account, or visit: <https://a123xxsp.dynu.com/shipbattles>,
+and download one of the versions :)
+
+*NOTE: The Android Version is playable, but there is a problem with ship movement, since the game was originally created for computers.*
